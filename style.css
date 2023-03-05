@@ -1,0 +1,13 @@
+html{
+    background-color: rgb(81, 81, 238);
+}
+h1,h2,h3{
+    color: rgb(234, 234, 19);
+}
+h3{
+    font-size: 35px;
+}
+p{
+    font-size: 25px;
+    line-height: 1.5;
+}
